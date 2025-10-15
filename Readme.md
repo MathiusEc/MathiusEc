@@ -1,6 +1,6 @@
 <h1 align="center"> 🌟 Hello everyone, I'm Mathius 🌟</h1>
 
-![Banner](./Full.jpg)
+![Banner](./Fulla.jpg)
 
 - 📖 Student at Universidad de las Américas  
 - 🧠 Passionate about technology and science  
