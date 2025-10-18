@@ -1,4 +1,4 @@
-<h1 align="center"> 🌟 Hello everyone, I'm Mathius 🌟</h1>
+<h1 align="center"> Hello everyone, I'm Mathius</h1>
 
 ![Banner](./Fulla.jpg)
 
