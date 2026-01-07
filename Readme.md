@@ -2,10 +2,18 @@
 
 ![Banner](./Fulla.jpg)
 
-- 📖 Student at Universidad de las Américas  
-- 🧠 Passionate about technology and science  
-- 💻 Enthusiast of software development and cybersecurity  
-- 🌱 Lifelong learner
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+### I'm a Software Engineering Student  
+    📖 Student at Universidad de las Américas (UDLA)
+    🧠 Passionate about technology and science
+    💻 Enthusiast of software development and cybersecurity
+    🌱 Lifelong learner
+
+
+---
+### My Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MathiusEc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
